@@ -12,4 +12,4 @@ Automation assists e-commerce sellers to launch new products
 [Image-only methods](https://github.com/xcxhy/ADBT/blob/main/Image_only)
 [Multi-modal methods](https://github.com/xcxhy/ADBT/blob/main/Multi_modal)
 
-
+This 
