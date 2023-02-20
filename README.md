@@ -11,5 +11,7 @@ Automation assists e-commerce sellers to launch new products
 &emsp;text question answer
 [Image-only methods](https://github.com/xcxhy/ADBT/blob/main/Image_only)
 [Multi-modal methods](https://github.com/xcxhy/ADBT/blob/main/Multi_modal)
+&emsp;image text match
+&emsp;image text retrievial or classify
 
 It is still being updated, slowly updating functions. Finally, a conversational bot for merchandise might be added.
