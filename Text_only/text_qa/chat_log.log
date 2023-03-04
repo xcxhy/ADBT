@@ -1,0 +1,2423 @@
+2023-03-03 14:20:45.503 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:22:27.468 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:22:43.174 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:22:43.174 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:22:43.174 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:22:43.176 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:22:43.176 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:22:43.176 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:22:47.793 | INFO     | __main__:<module>:33 - answer: 医生是一种专业人士，从事医学工作，能够诊断疾病，提供治疗方案和医疗服务，帮助患者恢复健康。医生可以是内科医生、外科医生、儿科医生、妇产科医生、眼科医生、耳鼻喉科医生等等，也可以是医院的行政管理人员，如院长、主任医师等。医生需要经过严格的专业培训和考核，具备相关的医学知识和技能，对患者具有高度的责任心和职业道德规范。
+2023-03-03 14:22:47.793 | INFO     | __main__:<module>:33 - answer: 医生是一种专业人士，从事医学工作，能够诊断疾病，提供治疗方案和医疗服务，帮助患者恢复健康。医生可以是内科医生、外科医生、儿科医生、妇产科医生、眼科医生、耳鼻喉科医生等等，也可以是医院的行政管理人员，如院长、主任医师等。医生需要经过严格的专业培训和考核，具备相关的医学知识和技能，对患者具有高度的责任心和职业道德规范。
+2023-03-03 14:22:47.793 | INFO     | __main__:<module>:33 - answer: 医生是一种专业人士，从事医学工作，能够诊断疾病，提供治疗方案和医疗服务，帮助患者恢复健康。医生可以是内科医生、外科医生、儿科医生、妇产科医生、眼科医生、耳鼻喉科医生等等，也可以是医院的行政管理人员，如院长、主任医师等。医生需要经过严格的专业培训和考核，具备相关的医学知识和技能，对患者具有高度的责任心和职业道德规范。
+2023-03-03 14:22:58.416 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:22:58.416 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:22:58.416 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:22:58.416 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:00.562 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:00.562 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:00.562 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:00.562 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:00.562 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:00.564 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:00.564 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:00.564 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:00.564 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:00.564 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:05.927 | INFO     | __main__:<module>:33 - answer: 医生是指拥有医学学位的专业人员，主要职责是诊断疾病、制定治疗方案、进行手术治疗、管理病人，以及提供健康保健建议等。医生需要具备丰富的医学知识和临床经验，对人体解剖、生理、药理等方面有深入的了解。医生还需要具备良好的沟通能力和人际交往能力，能够与患者建立良好的互动关系，帮助患者解决健康问题。医生还需要不断学习和更新知识，以适应不断变化的医疗环境和新的医学技术。
+2023-03-03 14:23:05.927 | INFO     | __main__:<module>:33 - answer: 医生是指拥有医学学位的专业人员，主要职责是诊断疾病、制定治疗方案、进行手术治疗、管理病人，以及提供健康保健建议等。医生需要具备丰富的医学知识和临床经验，对人体解剖、生理、药理等方面有深入的了解。医生还需要具备良好的沟通能力和人际交往能力，能够与患者建立良好的互动关系，帮助患者解决健康问题。医生还需要不断学习和更新知识，以适应不断变化的医疗环境和新的医学技术。
+2023-03-03 14:23:05.927 | INFO     | __main__:<module>:33 - answer: 医生是指拥有医学学位的专业人员，主要职责是诊断疾病、制定治疗方案、进行手术治疗、管理病人，以及提供健康保健建议等。医生需要具备丰富的医学知识和临床经验，对人体解剖、生理、药理等方面有深入的了解。医生还需要具备良好的沟通能力和人际交往能力，能够与患者建立良好的互动关系，帮助患者解决健康问题。医生还需要不断学习和更新知识，以适应不断变化的医疗环境和新的医学技术。
+2023-03-03 14:23:05.927 | INFO     | __main__:<module>:33 - answer: 医生是指拥有医学学位的专业人员，主要职责是诊断疾病、制定治疗方案、进行手术治疗、管理病人，以及提供健康保健建议等。医生需要具备丰富的医学知识和临床经验，对人体解剖、生理、药理等方面有深入的了解。医生还需要具备良好的沟通能力和人际交往能力，能够与患者建立良好的互动关系，帮助患者解决健康问题。医生还需要不断学习和更新知识，以适应不断变化的医疗环境和新的医学技术。
+2023-03-03 14:23:05.927 | INFO     | __main__:<module>:33 - answer: 医生是指拥有医学学位的专业人员，主要职责是诊断疾病、制定治疗方案、进行手术治疗、管理病人，以及提供健康保健建议等。医生需要具备丰富的医学知识和临床经验，对人体解剖、生理、药理等方面有深入的了解。医生还需要具备良好的沟通能力和人际交往能力，能够与患者建立良好的互动关系，帮助患者解决健康问题。医生还需要不断学习和更新知识，以适应不断变化的医疗环境和新的医学技术。
+2023-03-03 14:23:08.946 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:08.946 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:08.946 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:08.946 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:08.946 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:08.946 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:10.391 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:10.391 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:10.391 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:10.391 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:10.391 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:10.391 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:10.391 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:10.393 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:10.393 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:10.393 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:10.393 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:10.393 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:10.393 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:10.393 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:14.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:14.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:14.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:14.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:14.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:14.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:14.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:14.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:17.908 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:17.908 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:17.908 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:17.908 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:17.908 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:17.908 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:17.908 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:17.908 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:17.908 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:17.909 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:17.909 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:17.909 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:17.909 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:17.909 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:17.909 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:17.909 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:17.909 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:17.909 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:22.586 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:22.586 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:22.586 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:22.586 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:22.586 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:22.586 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:22.586 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:22.586 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:22.586 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:22.586 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:25.021 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:25.021 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:25.021 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:25.021 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:25.021 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:25.021 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:25.021 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:25.021 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:25.021 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:25.021 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:25.021 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:23:25.023 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:25.023 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:25.023 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:25.023 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:25.023 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:25.023 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:25.023 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:25.023 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:25.023 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:25.023 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:25.023 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:23:31.200 | INFO     | __main__:<module>:33 - answer: 
+
+医生是一种受过专业培训并拥有医学资格证书的人士，会诊断、治疗和预防疾病，并认真对待病人的身体和心理健康。医生可以在各种医疗环境中工作，包括医院、诊所、研究机构和卫生组织等地。具体医生的职业包括内科医生、外科医生、儿科医生、心理医生、眼科医生、妇科医生、整形外科医生等。他们可以使用诊疗设备和药物治疗病人，也可以通过咨询和教育来帮助患者维持健康。
+2023-03-03 14:23:31.200 | INFO     | __main__:<module>:33 - answer: 
+
+医生是一种受过专业培训并拥有医学资格证书的人士，会诊断、治疗和预防疾病，并认真对待病人的身体和心理健康。医生可以在各种医疗环境中工作，包括医院、诊所、研究机构和卫生组织等地。具体医生的职业包括内科医生、外科医生、儿科医生、心理医生、眼科医生、妇科医生、整形外科医生等。他们可以使用诊疗设备和药物治疗病人，也可以通过咨询和教育来帮助患者维持健康。
+2023-03-03 14:23:31.200 | INFO     | __main__:<module>:33 - answer: 
+
+医生是一种受过专业培训并拥有医学资格证书的人士，会诊断、治疗和预防疾病，并认真对待病人的身体和心理健康。医生可以在各种医疗环境中工作，包括医院、诊所、研究机构和卫生组织等地。具体医生的职业包括内科医生、外科医生、儿科医生、心理医生、眼科医生、妇科医生、整形外科医生等。他们可以使用诊疗设备和药物治疗病人，也可以通过咨询和教育来帮助患者维持健康。
+2023-03-03 14:23:31.200 | INFO     | __main__:<module>:33 - answer: 
+
+医生是一种受过专业培训并拥有医学资格证书的人士，会诊断、治疗和预防疾病，并认真对待病人的身体和心理健康。医生可以在各种医疗环境中工作，包括医院、诊所、研究机构和卫生组织等地。具体医生的职业包括内科医生、外科医生、儿科医生、心理医生、眼科医生、妇科医生、整形外科医生等。他们可以使用诊疗设备和药物治疗病人，也可以通过咨询和教育来帮助患者维持健康。
+2023-03-03 14:23:31.200 | INFO     | __main__:<module>:33 - answer: 
+
+医生是一种受过专业培训并拥有医学资格证书的人士，会诊断、治疗和预防疾病，并认真对待病人的身体和心理健康。医生可以在各种医疗环境中工作，包括医院、诊所、研究机构和卫生组织等地。具体医生的职业包括内科医生、外科医生、儿科医生、心理医生、眼科医生、妇科医生、整形外科医生等。他们可以使用诊疗设备和药物治疗病人，也可以通过咨询和教育来帮助患者维持健康。
+2023-03-03 14:23:31.200 | INFO     | __main__:<module>:33 - answer: 
+
+医生是一种受过专业培训并拥有医学资格证书的人士，会诊断、治疗和预防疾病，并认真对待病人的身体和心理健康。医生可以在各种医疗环境中工作，包括医院、诊所、研究机构和卫生组织等地。具体医生的职业包括内科医生、外科医生、儿科医生、心理医生、眼科医生、妇科医生、整形外科医生等。他们可以使用诊疗设备和药物治疗病人，也可以通过咨询和教育来帮助患者维持健康。
+2023-03-03 14:23:31.200 | INFO     | __main__:<module>:33 - answer: 
+
+医生是一种受过专业培训并拥有医学资格证书的人士，会诊断、治疗和预防疾病，并认真对待病人的身体和心理健康。医生可以在各种医疗环境中工作，包括医院、诊所、研究机构和卫生组织等地。具体医生的职业包括内科医生、外科医生、儿科医生、心理医生、眼科医生、妇科医生、整形外科医生等。他们可以使用诊疗设备和药物治疗病人，也可以通过咨询和教育来帮助患者维持健康。
+2023-03-03 14:23:31.200 | INFO     | __main__:<module>:33 - answer: 
+
+医生是一种受过专业培训并拥有医学资格证书的人士，会诊断、治疗和预防疾病，并认真对待病人的身体和心理健康。医生可以在各种医疗环境中工作，包括医院、诊所、研究机构和卫生组织等地。具体医生的职业包括内科医生、外科医生、儿科医生、心理医生、眼科医生、妇科医生、整形外科医生等。他们可以使用诊疗设备和药物治疗病人，也可以通过咨询和教育来帮助患者维持健康。
+2023-03-03 14:23:31.200 | INFO     | __main__:<module>:33 - answer: 
+
+医生是一种受过专业培训并拥有医学资格证书的人士，会诊断、治疗和预防疾病，并认真对待病人的身体和心理健康。医生可以在各种医疗环境中工作，包括医院、诊所、研究机构和卫生组织等地。具体医生的职业包括内科医生、外科医生、儿科医生、心理医生、眼科医生、妇科医生、整形外科医生等。他们可以使用诊疗设备和药物治疗病人，也可以通过咨询和教育来帮助患者维持健康。
+2023-03-03 14:23:31.200 | INFO     | __main__:<module>:33 - answer: 
+
+医生是一种受过专业培训并拥有医学资格证书的人士，会诊断、治疗和预防疾病，并认真对待病人的身体和心理健康。医生可以在各种医疗环境中工作，包括医院、诊所、研究机构和卫生组织等地。具体医生的职业包括内科医生、外科医生、儿科医生、心理医生、眼科医生、妇科医生、整形外科医生等。他们可以使用诊疗设备和药物治疗病人，也可以通过咨询和教育来帮助患者维持健康。
+2023-03-03 14:23:31.200 | INFO     | __main__:<module>:33 - answer: 
+
+医生是一种受过专业培训并拥有医学资格证书的人士，会诊断、治疗和预防疾病，并认真对待病人的身体和心理健康。医生可以在各种医疗环境中工作，包括医院、诊所、研究机构和卫生组织等地。具体医生的职业包括内科医生、外科医生、儿科医生、心理医生、眼科医生、妇科医生、整形外科医生等。他们可以使用诊疗设备和药物治疗病人，也可以通过咨询和教育来帮助患者维持健康。
+2023-03-03 14:25:18.356 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:25:18.356 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:25:18.356 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:25:18.356 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:25:18.356 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:25:18.356 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:25:18.356 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:25:18.356 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:25:18.356 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:25:18.356 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:25:18.356 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:25:18.356 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:25:24.238 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:25:24.238 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:25:24.238 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:25:24.238 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:25:24.238 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:25:24.238 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:25:24.238 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:25:24.238 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:25:24.238 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:25:24.238 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:25:24.238 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:25:24.238 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:25:24.238 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:25:24.239 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:25:24.239 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:25:24.239 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:25:24.239 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:25:24.239 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:25:24.239 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:25:24.239 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:25:24.239 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:25:24.239 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:25:24.239 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:25:24.239 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:25:24.239 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:25:24.239 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:26:05.839 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:05.839 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:05.839 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:05.839 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:05.839 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:05.839 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:05.839 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:05.839 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:05.839 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:05.839 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:05.839 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:05.839 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:05.839 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:05.839 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:25.867 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:26:29.944 | INFO     | __main__:<module>:14 - system_role: 头疼
+2023-03-03 14:26:29.944 | INFO     | __main__:<module>:14 - system_role: 头疼
+2023-03-03 14:26:29.944 | INFO     | __main__:<module>:14 - system_role: 头疼
+2023-03-03 14:26:29.945 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:26:29.945 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:26:29.945 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:26:35.323 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:35.323 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:35.323 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:35.323 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:35.323 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:26:35.324 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:26:35.324 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:26:35.324 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:26:35.324 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:26:35.324 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:42:15.621 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:42:15.621 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:42:15.621 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:42:15.621 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:42:15.621 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:42:15.621 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:42:21.020 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:42:21.020 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:42:21.020 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:42:21.020 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:42:21.020 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:42:21.020 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:42:21.020 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:42:21.099 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:42:21.099 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:42:21.099 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:42:21.099 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:42:21.099 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:42:21.099 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:42:21.099 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:42:21.099 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:42:21.100 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:42:21.100 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:42:21.100 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:42:21.100 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:42:21.100 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:42:21.100 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:42:21.100 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:42:21.100 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:42:58.332 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:42:58.332 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:42:58.332 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:42:58.332 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:42:58.332 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:42:58.332 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:42:58.332 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:42:58.332 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:42:58.332 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:43:01.766 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:01.766 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:01.766 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:01.766 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:01.766 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:01.766 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:01.766 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:01.766 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:01.766 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:01.766 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:01.766 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:01.768 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:01.768 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:01.768 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:01.768 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:01.768 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:01.768 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:01.768 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:01.768 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:01.768 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:01.768 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:01.768 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:06.249 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:06.249 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:06.249 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:06.249 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:06.249 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:06.249 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:06.249 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:06.249 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:06.249 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:06.249 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:06.249 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:06.249 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:06.250 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:06.250 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:06.250 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:06.250 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:06.250 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:06.250 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:06.250 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:06.250 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:06.250 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:06.250 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:06.250 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:06.250 | INFO     | __main__:<module>:20 - user_question: 
+2023-03-03 14:43:09.183 | INFO     | __main__:<module>:32 - answer: 医生是指受过专业医学教育，具有诊断、治疗和预防疾病的能力的医学专业人员。医生可以提供各种医疗服务，如开处方、进行手术、进行诊断、制定治疗计划，并为病人提供必要的医疗咨询和健康建议。医生可以在医院、诊所、诊所、急救中心和其他医疗设施工作。
+2023-03-03 14:43:09.183 | INFO     | __main__:<module>:32 - answer: 医生是指受过专业医学教育，具有诊断、治疗和预防疾病的能力的医学专业人员。医生可以提供各种医疗服务，如开处方、进行手术、进行诊断、制定治疗计划，并为病人提供必要的医疗咨询和健康建议。医生可以在医院、诊所、诊所、急救中心和其他医疗设施工作。
+2023-03-03 14:43:09.183 | INFO     | __main__:<module>:32 - answer: 医生是指受过专业医学教育，具有诊断、治疗和预防疾病的能力的医学专业人员。医生可以提供各种医疗服务，如开处方、进行手术、进行诊断、制定治疗计划，并为病人提供必要的医疗咨询和健康建议。医生可以在医院、诊所、诊所、急救中心和其他医疗设施工作。
+2023-03-03 14:43:09.183 | INFO     | __main__:<module>:32 - answer: 医生是指受过专业医学教育，具有诊断、治疗和预防疾病的能力的医学专业人员。医生可以提供各种医疗服务，如开处方、进行手术、进行诊断、制定治疗计划，并为病人提供必要的医疗咨询和健康建议。医生可以在医院、诊所、诊所、急救中心和其他医疗设施工作。
+2023-03-03 14:43:09.183 | INFO     | __main__:<module>:32 - answer: 医生是指受过专业医学教育，具有诊断、治疗和预防疾病的能力的医学专业人员。医生可以提供各种医疗服务，如开处方、进行手术、进行诊断、制定治疗计划，并为病人提供必要的医疗咨询和健康建议。医生可以在医院、诊所、诊所、急救中心和其他医疗设施工作。
+2023-03-03 14:43:09.183 | INFO     | __main__:<module>:32 - answer: 医生是指受过专业医学教育，具有诊断、治疗和预防疾病的能力的医学专业人员。医生可以提供各种医疗服务，如开处方、进行手术、进行诊断、制定治疗计划，并为病人提供必要的医疗咨询和健康建议。医生可以在医院、诊所、诊所、急救中心和其他医疗设施工作。
+2023-03-03 14:43:09.183 | INFO     | __main__:<module>:32 - answer: 医生是指受过专业医学教育，具有诊断、治疗和预防疾病的能力的医学专业人员。医生可以提供各种医疗服务，如开处方、进行手术、进行诊断、制定治疗计划，并为病人提供必要的医疗咨询和健康建议。医生可以在医院、诊所、诊所、急救中心和其他医疗设施工作。
+2023-03-03 14:43:09.183 | INFO     | __main__:<module>:32 - answer: 医生是指受过专业医学教育，具有诊断、治疗和预防疾病的能力的医学专业人员。医生可以提供各种医疗服务，如开处方、进行手术、进行诊断、制定治疗计划，并为病人提供必要的医疗咨询和健康建议。医生可以在医院、诊所、诊所、急救中心和其他医疗设施工作。
+2023-03-03 14:43:09.183 | INFO     | __main__:<module>:32 - answer: 医生是指受过专业医学教育，具有诊断、治疗和预防疾病的能力的医学专业人员。医生可以提供各种医疗服务，如开处方、进行手术、进行诊断、制定治疗计划，并为病人提供必要的医疗咨询和健康建议。医生可以在医院、诊所、诊所、急救中心和其他医疗设施工作。
+2023-03-03 14:43:09.183 | INFO     | __main__:<module>:32 - answer: 医生是指受过专业医学教育，具有诊断、治疗和预防疾病的能力的医学专业人员。医生可以提供各种医疗服务，如开处方、进行手术、进行诊断、制定治疗计划，并为病人提供必要的医疗咨询和健康建议。医生可以在医院、诊所、诊所、急救中心和其他医疗设施工作。
+2023-03-03 14:43:09.183 | INFO     | __main__:<module>:32 - answer: 医生是指受过专业医学教育，具有诊断、治疗和预防疾病的能力的医学专业人员。医生可以提供各种医疗服务，如开处方、进行手术、进行诊断、制定治疗计划，并为病人提供必要的医疗咨询和健康建议。医生可以在医院、诊所、诊所、急救中心和其他医疗设施工作。
+2023-03-03 14:43:09.183 | INFO     | __main__:<module>:32 - answer: 医生是指受过专业医学教育，具有诊断、治疗和预防疾病的能力的医学专业人员。医生可以提供各种医疗服务，如开处方、进行手术、进行诊断、制定治疗计划，并为病人提供必要的医疗咨询和健康建议。医生可以在医院、诊所、诊所、急救中心和其他医疗设施工作。
+2023-03-03 14:43:21.625 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:21.625 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:21.625 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:21.625 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:21.625 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:21.625 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:21.625 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:21.625 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:21.625 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:21.625 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:21.625 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:21.625 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:43:21.625 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:44:58.431 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:44:58.431 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:44:58.431 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:44:58.431 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:44:58.431 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:44:58.431 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:44:58.431 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:44:58.431 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:44:58.431 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:44:58.431 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:44:58.431 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:44:58.431 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:44:58.431 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:44:58.431 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:44:58.434 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:44:58.434 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:44:58.434 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:44:58.434 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:44:58.434 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:44:58.434 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:44:58.434 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:44:58.434 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:44:58.434 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:44:58.434 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:44:58.434 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:44:58.434 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:44:58.434 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:44:58.434 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:44:59.743 | INFO     | __main__:<module>:33 - answer: Bonjour ! Comment puis-je vous aider aujourd'hui ?
+2023-03-03 14:44:59.743 | INFO     | __main__:<module>:33 - answer: Bonjour ! Comment puis-je vous aider aujourd'hui ?
+2023-03-03 14:44:59.743 | INFO     | __main__:<module>:33 - answer: Bonjour ! Comment puis-je vous aider aujourd'hui ?
+2023-03-03 14:44:59.743 | INFO     | __main__:<module>:33 - answer: Bonjour ! Comment puis-je vous aider aujourd'hui ?
+2023-03-03 14:44:59.743 | INFO     | __main__:<module>:33 - answer: Bonjour ! Comment puis-je vous aider aujourd'hui ?
+2023-03-03 14:44:59.743 | INFO     | __main__:<module>:33 - answer: Bonjour ! Comment puis-je vous aider aujourd'hui ?
+2023-03-03 14:44:59.743 | INFO     | __main__:<module>:33 - answer: Bonjour ! Comment puis-je vous aider aujourd'hui ?
+2023-03-03 14:44:59.743 | INFO     | __main__:<module>:33 - answer: Bonjour ! Comment puis-je vous aider aujourd'hui ?
+2023-03-03 14:44:59.743 | INFO     | __main__:<module>:33 - answer: Bonjour ! Comment puis-je vous aider aujourd'hui ?
+2023-03-03 14:44:59.743 | INFO     | __main__:<module>:33 - answer: Bonjour ! Comment puis-je vous aider aujourd'hui ?
+2023-03-03 14:44:59.743 | INFO     | __main__:<module>:33 - answer: Bonjour ! Comment puis-je vous aider aujourd'hui ?
+2023-03-03 14:44:59.743 | INFO     | __main__:<module>:33 - answer: Bonjour ! Comment puis-je vous aider aujourd'hui ?
+2023-03-03 14:44:59.743 | INFO     | __main__:<module>:33 - answer: Bonjour ! Comment puis-je vous aider aujourd'hui ?
+2023-03-03 14:44:59.743 | INFO     | __main__:<module>:33 - answer: Bonjour ! Comment puis-je vous aider aujourd'hui ?
+2023-03-03 14:45:07.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:07.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:07.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:07.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:07.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:07.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:07.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:07.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:07.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:07.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:07.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:07.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:07.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:07.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:07.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:07.656 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:07.659 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:45:07.659 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:45:07.659 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:45:07.659 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:45:07.659 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:45:07.659 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:45:07.659 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:45:07.659 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:45:07.659 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:45:07.659 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:45:07.659 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:45:07.659 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:45:07.659 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:45:07.659 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:45:07.659 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:45:07.659 | INFO     | __main__:<module>:21 - user_question: 
+2023-03-03 14:45:12.563 | INFO     | __main__:<module>:33 - answer: 医生是指受过专门医学教育并获得相关证书和执业资格，拥有治疗、预防和诊断疾病的专业能力，为病人提供医学服务，并帮助提高人们的健康水平。医生可以从事各种医学领域的工作，如普通内科、外科、妇产科、儿科、眼科、耳鼻喉科、心理医学、牙科等等。其中，临床医生通过实践经验专治于特定领域，研究医学并将新的治疗方法和技术应用于实际临床病例。
+2023-03-03 14:45:12.563 | INFO     | __main__:<module>:33 - answer: 医生是指受过专门医学教育并获得相关证书和执业资格，拥有治疗、预防和诊断疾病的专业能力，为病人提供医学服务，并帮助提高人们的健康水平。医生可以从事各种医学领域的工作，如普通内科、外科、妇产科、儿科、眼科、耳鼻喉科、心理医学、牙科等等。其中，临床医生通过实践经验专治于特定领域，研究医学并将新的治疗方法和技术应用于实际临床病例。
+2023-03-03 14:45:12.563 | INFO     | __main__:<module>:33 - answer: 医生是指受过专门医学教育并获得相关证书和执业资格，拥有治疗、预防和诊断疾病的专业能力，为病人提供医学服务，并帮助提高人们的健康水平。医生可以从事各种医学领域的工作，如普通内科、外科、妇产科、儿科、眼科、耳鼻喉科、心理医学、牙科等等。其中，临床医生通过实践经验专治于特定领域，研究医学并将新的治疗方法和技术应用于实际临床病例。
+2023-03-03 14:45:12.563 | INFO     | __main__:<module>:33 - answer: 医生是指受过专门医学教育并获得相关证书和执业资格，拥有治疗、预防和诊断疾病的专业能力，为病人提供医学服务，并帮助提高人们的健康水平。医生可以从事各种医学领域的工作，如普通内科、外科、妇产科、儿科、眼科、耳鼻喉科、心理医学、牙科等等。其中，临床医生通过实践经验专治于特定领域，研究医学并将新的治疗方法和技术应用于实际临床病例。
+2023-03-03 14:45:12.563 | INFO     | __main__:<module>:33 - answer: 医生是指受过专门医学教育并获得相关证书和执业资格，拥有治疗、预防和诊断疾病的专业能力，为病人提供医学服务，并帮助提高人们的健康水平。医生可以从事各种医学领域的工作，如普通内科、外科、妇产科、儿科、眼科、耳鼻喉科、心理医学、牙科等等。其中，临床医生通过实践经验专治于特定领域，研究医学并将新的治疗方法和技术应用于实际临床病例。
+2023-03-03 14:45:12.563 | INFO     | __main__:<module>:33 - answer: 医生是指受过专门医学教育并获得相关证书和执业资格，拥有治疗、预防和诊断疾病的专业能力，为病人提供医学服务，并帮助提高人们的健康水平。医生可以从事各种医学领域的工作，如普通内科、外科、妇产科、儿科、眼科、耳鼻喉科、心理医学、牙科等等。其中，临床医生通过实践经验专治于特定领域，研究医学并将新的治疗方法和技术应用于实际临床病例。
+2023-03-03 14:45:12.563 | INFO     | __main__:<module>:33 - answer: 医生是指受过专门医学教育并获得相关证书和执业资格，拥有治疗、预防和诊断疾病的专业能力，为病人提供医学服务，并帮助提高人们的健康水平。医生可以从事各种医学领域的工作，如普通内科、外科、妇产科、儿科、眼科、耳鼻喉科、心理医学、牙科等等。其中，临床医生通过实践经验专治于特定领域，研究医学并将新的治疗方法和技术应用于实际临床病例。
+2023-03-03 14:45:12.563 | INFO     | __main__:<module>:33 - answer: 医生是指受过专门医学教育并获得相关证书和执业资格，拥有治疗、预防和诊断疾病的专业能力，为病人提供医学服务，并帮助提高人们的健康水平。医生可以从事各种医学领域的工作，如普通内科、外科、妇产科、儿科、眼科、耳鼻喉科、心理医学、牙科等等。其中，临床医生通过实践经验专治于特定领域，研究医学并将新的治疗方法和技术应用于实际临床病例。
+2023-03-03 14:45:12.563 | INFO     | __main__:<module>:33 - answer: 医生是指受过专门医学教育并获得相关证书和执业资格，拥有治疗、预防和诊断疾病的专业能力，为病人提供医学服务，并帮助提高人们的健康水平。医生可以从事各种医学领域的工作，如普通内科、外科、妇产科、儿科、眼科、耳鼻喉科、心理医学、牙科等等。其中，临床医生通过实践经验专治于特定领域，研究医学并将新的治疗方法和技术应用于实际临床病例。
+2023-03-03 14:45:12.563 | INFO     | __main__:<module>:33 - answer: 医生是指受过专门医学教育并获得相关证书和执业资格，拥有治疗、预防和诊断疾病的专业能力，为病人提供医学服务，并帮助提高人们的健康水平。医生可以从事各种医学领域的工作，如普通内科、外科、妇产科、儿科、眼科、耳鼻喉科、心理医学、牙科等等。其中，临床医生通过实践经验专治于特定领域，研究医学并将新的治疗方法和技术应用于实际临床病例。
+2023-03-03 14:45:12.563 | INFO     | __main__:<module>:33 - answer: 医生是指受过专门医学教育并获得相关证书和执业资格，拥有治疗、预防和诊断疾病的专业能力，为病人提供医学服务，并帮助提高人们的健康水平。医生可以从事各种医学领域的工作，如普通内科、外科、妇产科、儿科、眼科、耳鼻喉科、心理医学、牙科等等。其中，临床医生通过实践经验专治于特定领域，研究医学并将新的治疗方法和技术应用于实际临床病例。
+2023-03-03 14:45:12.563 | INFO     | __main__:<module>:33 - answer: 医生是指受过专门医学教育并获得相关证书和执业资格，拥有治疗、预防和诊断疾病的专业能力，为病人提供医学服务，并帮助提高人们的健康水平。医生可以从事各种医学领域的工作，如普通内科、外科、妇产科、儿科、眼科、耳鼻喉科、心理医学、牙科等等。其中，临床医生通过实践经验专治于特定领域，研究医学并将新的治疗方法和技术应用于实际临床病例。
+2023-03-03 14:45:12.563 | INFO     | __main__:<module>:33 - answer: 医生是指受过专门医学教育并获得相关证书和执业资格，拥有治疗、预防和诊断疾病的专业能力，为病人提供医学服务，并帮助提高人们的健康水平。医生可以从事各种医学领域的工作，如普通内科、外科、妇产科、儿科、眼科、耳鼻喉科、心理医学、牙科等等。其中，临床医生通过实践经验专治于特定领域，研究医学并将新的治疗方法和技术应用于实际临床病例。
+2023-03-03 14:45:12.563 | INFO     | __main__:<module>:33 - answer: 医生是指受过专门医学教育并获得相关证书和执业资格，拥有治疗、预防和诊断疾病的专业能力，为病人提供医学服务，并帮助提高人们的健康水平。医生可以从事各种医学领域的工作，如普通内科、外科、妇产科、儿科、眼科、耳鼻喉科、心理医学、牙科等等。其中，临床医生通过实践经验专治于特定领域，研究医学并将新的治疗方法和技术应用于实际临床病例。
+2023-03-03 14:45:12.563 | INFO     | __main__:<module>:33 - answer: 医生是指受过专门医学教育并获得相关证书和执业资格，拥有治疗、预防和诊断疾病的专业能力，为病人提供医学服务，并帮助提高人们的健康水平。医生可以从事各种医学领域的工作，如普通内科、外科、妇产科、儿科、眼科、耳鼻喉科、心理医学、牙科等等。其中，临床医生通过实践经验专治于特定领域，研究医学并将新的治疗方法和技术应用于实际临床病例。
+2023-03-03 14:45:12.563 | INFO     | __main__:<module>:33 - answer: 医生是指受过专门医学教育并获得相关证书和执业资格，拥有治疗、预防和诊断疾病的专业能力，为病人提供医学服务，并帮助提高人们的健康水平。医生可以从事各种医学领域的工作，如普通内科、外科、妇产科、儿科、眼科、耳鼻喉科、心理医学、牙科等等。其中，临床医生通过实践经验专治于特定领域，研究医学并将新的治疗方法和技术应用于实际临床病例。
+2023-03-03 14:45:13.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:13.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:13.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:13.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:13.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:13.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:13.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:13.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:13.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:13.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:13.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:13.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:13.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:13.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:13.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:13.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:13.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:13.586 | INFO     | __main__:<module>:21 - user_question: 我肚子疼
+2023-03-03 14:45:13.586 | INFO     | __main__:<module>:21 - user_question: 我肚子疼
+2023-03-03 14:45:13.586 | INFO     | __main__:<module>:21 - user_question: 我肚子疼
+2023-03-03 14:45:13.586 | INFO     | __main__:<module>:21 - user_question: 我肚子疼
+2023-03-03 14:45:13.586 | INFO     | __main__:<module>:21 - user_question: 我肚子疼
+2023-03-03 14:45:13.586 | INFO     | __main__:<module>:21 - user_question: 我肚子疼
+2023-03-03 14:45:13.586 | INFO     | __main__:<module>:21 - user_question: 我肚子疼
+2023-03-03 14:45:13.586 | INFO     | __main__:<module>:21 - user_question: 我肚子疼
+2023-03-03 14:45:13.586 | INFO     | __main__:<module>:21 - user_question: 我肚子疼
+2023-03-03 14:45:13.586 | INFO     | __main__:<module>:21 - user_question: 我肚子疼
+2023-03-03 14:45:13.586 | INFO     | __main__:<module>:21 - user_question: 我肚子疼
+2023-03-03 14:45:13.586 | INFO     | __main__:<module>:21 - user_question: 我肚子疼
+2023-03-03 14:45:13.586 | INFO     | __main__:<module>:21 - user_question: 我肚子疼
+2023-03-03 14:45:13.586 | INFO     | __main__:<module>:21 - user_question: 我肚子疼
+2023-03-03 14:45:13.586 | INFO     | __main__:<module>:21 - user_question: 我肚子疼
+2023-03-03 14:45:13.586 | INFO     | __main__:<module>:21 - user_question: 我肚子疼
+2023-03-03 14:45:13.586 | INFO     | __main__:<module>:21 - user_question: 我肚子疼
+2023-03-03 14:45:19.308 | INFO     | __main__:<module>:33 - answer: 您好，肚子疼可能有多种原因，例如消化不良、胃肠道感染、肠道炎症、胃溃疡等。以下是一些可能的建议：
+
+1. 饮食调整：如避免辛辣、过饱或过酸等食物。
+
+2. 喝足够的水：保持身体水分，加速体内消化。
+
+3. 避免过度劳累：休息，不过度用力或运动。
+
+4. 寻求医生帮助：如果肚子疼严重或持续时间较长，建议尽快到医院就诊，医生会进行详细的体检和症状分析，诊断并给出相应的治疗方案。
+
+希望我的回答能够对您有所帮助，祝您早日康复！
+2023-03-03 14:45:19.308 | INFO     | __main__:<module>:33 - answer: 您好，肚子疼可能有多种原因，例如消化不良、胃肠道感染、肠道炎症、胃溃疡等。以下是一些可能的建议：
+
+1. 饮食调整：如避免辛辣、过饱或过酸等食物。
+
+2. 喝足够的水：保持身体水分，加速体内消化。
+
+3. 避免过度劳累：休息，不过度用力或运动。
+
+4. 寻求医生帮助：如果肚子疼严重或持续时间较长，建议尽快到医院就诊，医生会进行详细的体检和症状分析，诊断并给出相应的治疗方案。
+
+希望我的回答能够对您有所帮助，祝您早日康复！
+2023-03-03 14:45:19.308 | INFO     | __main__:<module>:33 - answer: 您好，肚子疼可能有多种原因，例如消化不良、胃肠道感染、肠道炎症、胃溃疡等。以下是一些可能的建议：
+
+1. 饮食调整：如避免辛辣、过饱或过酸等食物。
+
+2. 喝足够的水：保持身体水分，加速体内消化。
+
+3. 避免过度劳累：休息，不过度用力或运动。
+
+4. 寻求医生帮助：如果肚子疼严重或持续时间较长，建议尽快到医院就诊，医生会进行详细的体检和症状分析，诊断并给出相应的治疗方案。
+
+希望我的回答能够对您有所帮助，祝您早日康复！
+2023-03-03 14:45:19.308 | INFO     | __main__:<module>:33 - answer: 您好，肚子疼可能有多种原因，例如消化不良、胃肠道感染、肠道炎症、胃溃疡等。以下是一些可能的建议：
+
+1. 饮食调整：如避免辛辣、过饱或过酸等食物。
+
+2. 喝足够的水：保持身体水分，加速体内消化。
+
+3. 避免过度劳累：休息，不过度用力或运动。
+
+4. 寻求医生帮助：如果肚子疼严重或持续时间较长，建议尽快到医院就诊，医生会进行详细的体检和症状分析，诊断并给出相应的治疗方案。
+
+希望我的回答能够对您有所帮助，祝您早日康复！
+2023-03-03 14:45:19.308 | INFO     | __main__:<module>:33 - answer: 您好，肚子疼可能有多种原因，例如消化不良、胃肠道感染、肠道炎症、胃溃疡等。以下是一些可能的建议：
+
+1. 饮食调整：如避免辛辣、过饱或过酸等食物。
+
+2. 喝足够的水：保持身体水分，加速体内消化。
+
+3. 避免过度劳累：休息，不过度用力或运动。
+
+4. 寻求医生帮助：如果肚子疼严重或持续时间较长，建议尽快到医院就诊，医生会进行详细的体检和症状分析，诊断并给出相应的治疗方案。
+
+希望我的回答能够对您有所帮助，祝您早日康复！
+2023-03-03 14:45:19.308 | INFO     | __main__:<module>:33 - answer: 您好，肚子疼可能有多种原因，例如消化不良、胃肠道感染、肠道炎症、胃溃疡等。以下是一些可能的建议：
+
+1. 饮食调整：如避免辛辣、过饱或过酸等食物。
+
+2. 喝足够的水：保持身体水分，加速体内消化。
+
+3. 避免过度劳累：休息，不过度用力或运动。
+
+4. 寻求医生帮助：如果肚子疼严重或持续时间较长，建议尽快到医院就诊，医生会进行详细的体检和症状分析，诊断并给出相应的治疗方案。
+
+希望我的回答能够对您有所帮助，祝您早日康复！
+2023-03-03 14:45:19.308 | INFO     | __main__:<module>:33 - answer: 您好，肚子疼可能有多种原因，例如消化不良、胃肠道感染、肠道炎症、胃溃疡等。以下是一些可能的建议：
+
+1. 饮食调整：如避免辛辣、过饱或过酸等食物。
+
+2. 喝足够的水：保持身体水分，加速体内消化。
+
+3. 避免过度劳累：休息，不过度用力或运动。
+
+4. 寻求医生帮助：如果肚子疼严重或持续时间较长，建议尽快到医院就诊，医生会进行详细的体检和症状分析，诊断并给出相应的治疗方案。
+
+希望我的回答能够对您有所帮助，祝您早日康复！
+2023-03-03 14:45:19.308 | INFO     | __main__:<module>:33 - answer: 您好，肚子疼可能有多种原因，例如消化不良、胃肠道感染、肠道炎症、胃溃疡等。以下是一些可能的建议：
+
+1. 饮食调整：如避免辛辣、过饱或过酸等食物。
+
+2. 喝足够的水：保持身体水分，加速体内消化。
+
+3. 避免过度劳累：休息，不过度用力或运动。
+
+4. 寻求医生帮助：如果肚子疼严重或持续时间较长，建议尽快到医院就诊，医生会进行详细的体检和症状分析，诊断并给出相应的治疗方案。
+
+希望我的回答能够对您有所帮助，祝您早日康复！
+2023-03-03 14:45:19.308 | INFO     | __main__:<module>:33 - answer: 您好，肚子疼可能有多种原因，例如消化不良、胃肠道感染、肠道炎症、胃溃疡等。以下是一些可能的建议：
+
+1. 饮食调整：如避免辛辣、过饱或过酸等食物。
+
+2. 喝足够的水：保持身体水分，加速体内消化。
+
+3. 避免过度劳累：休息，不过度用力或运动。
+
+4. 寻求医生帮助：如果肚子疼严重或持续时间较长，建议尽快到医院就诊，医生会进行详细的体检和症状分析，诊断并给出相应的治疗方案。
+
+希望我的回答能够对您有所帮助，祝您早日康复！
+2023-03-03 14:45:19.308 | INFO     | __main__:<module>:33 - answer: 您好，肚子疼可能有多种原因，例如消化不良、胃肠道感染、肠道炎症、胃溃疡等。以下是一些可能的建议：
+
+1. 饮食调整：如避免辛辣、过饱或过酸等食物。
+
+2. 喝足够的水：保持身体水分，加速体内消化。
+
+3. 避免过度劳累：休息，不过度用力或运动。
+
+4. 寻求医生帮助：如果肚子疼严重或持续时间较长，建议尽快到医院就诊，医生会进行详细的体检和症状分析，诊断并给出相应的治疗方案。
+
+希望我的回答能够对您有所帮助，祝您早日康复！
+2023-03-03 14:45:19.308 | INFO     | __main__:<module>:33 - answer: 您好，肚子疼可能有多种原因，例如消化不良、胃肠道感染、肠道炎症、胃溃疡等。以下是一些可能的建议：
+
+1. 饮食调整：如避免辛辣、过饱或过酸等食物。
+
+2. 喝足够的水：保持身体水分，加速体内消化。
+
+3. 避免过度劳累：休息，不过度用力或运动。
+
+4. 寻求医生帮助：如果肚子疼严重或持续时间较长，建议尽快到医院就诊，医生会进行详细的体检和症状分析，诊断并给出相应的治疗方案。
+
+希望我的回答能够对您有所帮助，祝您早日康复！
+2023-03-03 14:45:19.308 | INFO     | __main__:<module>:33 - answer: 您好，肚子疼可能有多种原因，例如消化不良、胃肠道感染、肠道炎症、胃溃疡等。以下是一些可能的建议：
+
+1. 饮食调整：如避免辛辣、过饱或过酸等食物。
+
+2. 喝足够的水：保持身体水分，加速体内消化。
+
+3. 避免过度劳累：休息，不过度用力或运动。
+
+4. 寻求医生帮助：如果肚子疼严重或持续时间较长，建议尽快到医院就诊，医生会进行详细的体检和症状分析，诊断并给出相应的治疗方案。
+
+希望我的回答能够对您有所帮助，祝您早日康复！
+2023-03-03 14:45:19.308 | INFO     | __main__:<module>:33 - answer: 您好，肚子疼可能有多种原因，例如消化不良、胃肠道感染、肠道炎症、胃溃疡等。以下是一些可能的建议：
+
+1. 饮食调整：如避免辛辣、过饱或过酸等食物。
+
+2. 喝足够的水：保持身体水分，加速体内消化。
+
+3. 避免过度劳累：休息，不过度用力或运动。
+
+4. 寻求医生帮助：如果肚子疼严重或持续时间较长，建议尽快到医院就诊，医生会进行详细的体检和症状分析，诊断并给出相应的治疗方案。
+
+希望我的回答能够对您有所帮助，祝您早日康复！
+2023-03-03 14:45:19.308 | INFO     | __main__:<module>:33 - answer: 您好，肚子疼可能有多种原因，例如消化不良、胃肠道感染、肠道炎症、胃溃疡等。以下是一些可能的建议：
+
+1. 饮食调整：如避免辛辣、过饱或过酸等食物。
+
+2. 喝足够的水：保持身体水分，加速体内消化。
+
+3. 避免过度劳累：休息，不过度用力或运动。
+
+4. 寻求医生帮助：如果肚子疼严重或持续时间较长，建议尽快到医院就诊，医生会进行详细的体检和症状分析，诊断并给出相应的治疗方案。
+
+希望我的回答能够对您有所帮助，祝您早日康复！
+2023-03-03 14:45:19.308 | INFO     | __main__:<module>:33 - answer: 您好，肚子疼可能有多种原因，例如消化不良、胃肠道感染、肠道炎症、胃溃疡等。以下是一些可能的建议：
+
+1. 饮食调整：如避免辛辣、过饱或过酸等食物。
+
+2. 喝足够的水：保持身体水分，加速体内消化。
+
+3. 避免过度劳累：休息，不过度用力或运动。
+
+4. 寻求医生帮助：如果肚子疼严重或持续时间较长，建议尽快到医院就诊，医生会进行详细的体检和症状分析，诊断并给出相应的治疗方案。
+
+希望我的回答能够对您有所帮助，祝您早日康复！
+2023-03-03 14:45:19.308 | INFO     | __main__:<module>:33 - answer: 您好，肚子疼可能有多种原因，例如消化不良、胃肠道感染、肠道炎症、胃溃疡等。以下是一些可能的建议：
+
+1. 饮食调整：如避免辛辣、过饱或过酸等食物。
+
+2. 喝足够的水：保持身体水分，加速体内消化。
+
+3. 避免过度劳累：休息，不过度用力或运动。
+
+4. 寻求医生帮助：如果肚子疼严重或持续时间较长，建议尽快到医院就诊，医生会进行详细的体检和症状分析，诊断并给出相应的治疗方案。
+
+希望我的回答能够对您有所帮助，祝您早日康复！
+2023-03-03 14:45:19.308 | INFO     | __main__:<module>:33 - answer: 您好，肚子疼可能有多种原因，例如消化不良、胃肠道感染、肠道炎症、胃溃疡等。以下是一些可能的建议：
+
+1. 饮食调整：如避免辛辣、过饱或过酸等食物。
+
+2. 喝足够的水：保持身体水分，加速体内消化。
+
+3. 避免过度劳累：休息，不过度用力或运动。
+
+4. 寻求医生帮助：如果肚子疼严重或持续时间较长，建议尽快到医院就诊，医生会进行详细的体检和症状分析，诊断并给出相应的治疗方案。
+
+希望我的回答能够对您有所帮助，祝您早日康复！
+2023-03-03 14:45:33.526 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:33.526 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:33.526 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:33.526 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:33.526 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:33.526 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:33.526 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:33.526 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:33.526 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:33.526 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:33.526 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:33.526 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:33.526 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:33.526 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:33.526 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:33.526 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:33.526 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:33.526 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:45:33.529 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:45:33.529 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:45:33.529 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:45:33.529 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:45:33.529 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:45:33.529 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:45:33.529 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:45:33.529 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:45:33.529 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:45:33.529 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:45:33.529 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:45:33.529 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:45:33.529 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:45:33.529 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:45:33.529 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:45:33.529 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:45:33.529 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:45:33.529 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:45:38.497 | INFO     | __main__:<module>:33 - answer: 如果您感到胃痛，可以尝试以下一些方法：
+
+1. 休息一下：平躺或坐下，放轻松，不要做剧烈运动。
+
+2. 饮食调节：少吃刺激性和油腻的食物，多喝水，可以吃些易消化的食物，如米粥、面条、馒头等。
+
+3. 热敷：可以用温水袋敷在胃部，有助于缓解疼痛。
+
+4. 药物缓解：如果症状持续严重，可以咨询医生选择适当的药物缓解症状。
+
+如果胃痛严重，伴随呕吐、发热等症状，建议立即就医，以查明原因并接受治疗。
+2023-03-03 14:45:38.497 | INFO     | __main__:<module>:33 - answer: 如果您感到胃痛，可以尝试以下一些方法：
+
+1. 休息一下：平躺或坐下，放轻松，不要做剧烈运动。
+
+2. 饮食调节：少吃刺激性和油腻的食物，多喝水，可以吃些易消化的食物，如米粥、面条、馒头等。
+
+3. 热敷：可以用温水袋敷在胃部，有助于缓解疼痛。
+
+4. 药物缓解：如果症状持续严重，可以咨询医生选择适当的药物缓解症状。
+
+如果胃痛严重，伴随呕吐、发热等症状，建议立即就医，以查明原因并接受治疗。
+2023-03-03 14:45:38.497 | INFO     | __main__:<module>:33 - answer: 如果您感到胃痛，可以尝试以下一些方法：
+
+1. 休息一下：平躺或坐下，放轻松，不要做剧烈运动。
+
+2. 饮食调节：少吃刺激性和油腻的食物，多喝水，可以吃些易消化的食物，如米粥、面条、馒头等。
+
+3. 热敷：可以用温水袋敷在胃部，有助于缓解疼痛。
+
+4. 药物缓解：如果症状持续严重，可以咨询医生选择适当的药物缓解症状。
+
+如果胃痛严重，伴随呕吐、发热等症状，建议立即就医，以查明原因并接受治疗。
+2023-03-03 14:45:38.497 | INFO     | __main__:<module>:33 - answer: 如果您感到胃痛，可以尝试以下一些方法：
+
+1. 休息一下：平躺或坐下，放轻松，不要做剧烈运动。
+
+2. 饮食调节：少吃刺激性和油腻的食物，多喝水，可以吃些易消化的食物，如米粥、面条、馒头等。
+
+3. 热敷：可以用温水袋敷在胃部，有助于缓解疼痛。
+
+4. 药物缓解：如果症状持续严重，可以咨询医生选择适当的药物缓解症状。
+
+如果胃痛严重，伴随呕吐、发热等症状，建议立即就医，以查明原因并接受治疗。
+2023-03-03 14:45:38.497 | INFO     | __main__:<module>:33 - answer: 如果您感到胃痛，可以尝试以下一些方法：
+
+1. 休息一下：平躺或坐下，放轻松，不要做剧烈运动。
+
+2. 饮食调节：少吃刺激性和油腻的食物，多喝水，可以吃些易消化的食物，如米粥、面条、馒头等。
+
+3. 热敷：可以用温水袋敷在胃部，有助于缓解疼痛。
+
+4. 药物缓解：如果症状持续严重，可以咨询医生选择适当的药物缓解症状。
+
+如果胃痛严重，伴随呕吐、发热等症状，建议立即就医，以查明原因并接受治疗。
+2023-03-03 14:45:38.497 | INFO     | __main__:<module>:33 - answer: 如果您感到胃痛，可以尝试以下一些方法：
+
+1. 休息一下：平躺或坐下，放轻松，不要做剧烈运动。
+
+2. 饮食调节：少吃刺激性和油腻的食物，多喝水，可以吃些易消化的食物，如米粥、面条、馒头等。
+
+3. 热敷：可以用温水袋敷在胃部，有助于缓解疼痛。
+
+4. 药物缓解：如果症状持续严重，可以咨询医生选择适当的药物缓解症状。
+
+如果胃痛严重，伴随呕吐、发热等症状，建议立即就医，以查明原因并接受治疗。
+2023-03-03 14:45:38.497 | INFO     | __main__:<module>:33 - answer: 如果您感到胃痛，可以尝试以下一些方法：
+
+1. 休息一下：平躺或坐下，放轻松，不要做剧烈运动。
+
+2. 饮食调节：少吃刺激性和油腻的食物，多喝水，可以吃些易消化的食物，如米粥、面条、馒头等。
+
+3. 热敷：可以用温水袋敷在胃部，有助于缓解疼痛。
+
+4. 药物缓解：如果症状持续严重，可以咨询医生选择适当的药物缓解症状。
+
+如果胃痛严重，伴随呕吐、发热等症状，建议立即就医，以查明原因并接受治疗。
+2023-03-03 14:45:38.497 | INFO     | __main__:<module>:33 - answer: 如果您感到胃痛，可以尝试以下一些方法：
+
+1. 休息一下：平躺或坐下，放轻松，不要做剧烈运动。
+
+2. 饮食调节：少吃刺激性和油腻的食物，多喝水，可以吃些易消化的食物，如米粥、面条、馒头等。
+
+3. 热敷：可以用温水袋敷在胃部，有助于缓解疼痛。
+
+4. 药物缓解：如果症状持续严重，可以咨询医生选择适当的药物缓解症状。
+
+如果胃痛严重，伴随呕吐、发热等症状，建议立即就医，以查明原因并接受治疗。
+2023-03-03 14:45:38.497 | INFO     | __main__:<module>:33 - answer: 如果您感到胃痛，可以尝试以下一些方法：
+
+1. 休息一下：平躺或坐下，放轻松，不要做剧烈运动。
+
+2. 饮食调节：少吃刺激性和油腻的食物，多喝水，可以吃些易消化的食物，如米粥、面条、馒头等。
+
+3. 热敷：可以用温水袋敷在胃部，有助于缓解疼痛。
+
+4. 药物缓解：如果症状持续严重，可以咨询医生选择适当的药物缓解症状。
+
+如果胃痛严重，伴随呕吐、发热等症状，建议立即就医，以查明原因并接受治疗。
+2023-03-03 14:45:38.497 | INFO     | __main__:<module>:33 - answer: 如果您感到胃痛，可以尝试以下一些方法：
+
+1. 休息一下：平躺或坐下，放轻松，不要做剧烈运动。
+
+2. 饮食调节：少吃刺激性和油腻的食物，多喝水，可以吃些易消化的食物，如米粥、面条、馒头等。
+
+3. 热敷：可以用温水袋敷在胃部，有助于缓解疼痛。
+
+4. 药物缓解：如果症状持续严重，可以咨询医生选择适当的药物缓解症状。
+
+如果胃痛严重，伴随呕吐、发热等症状，建议立即就医，以查明原因并接受治疗。
+2023-03-03 14:45:38.497 | INFO     | __main__:<module>:33 - answer: 如果您感到胃痛，可以尝试以下一些方法：
+
+1. 休息一下：平躺或坐下，放轻松，不要做剧烈运动。
+
+2. 饮食调节：少吃刺激性和油腻的食物，多喝水，可以吃些易消化的食物，如米粥、面条、馒头等。
+
+3. 热敷：可以用温水袋敷在胃部，有助于缓解疼痛。
+
+4. 药物缓解：如果症状持续严重，可以咨询医生选择适当的药物缓解症状。
+
+如果胃痛严重，伴随呕吐、发热等症状，建议立即就医，以查明原因并接受治疗。
+2023-03-03 14:45:38.497 | INFO     | __main__:<module>:33 - answer: 如果您感到胃痛，可以尝试以下一些方法：
+
+1. 休息一下：平躺或坐下，放轻松，不要做剧烈运动。
+
+2. 饮食调节：少吃刺激性和油腻的食物，多喝水，可以吃些易消化的食物，如米粥、面条、馒头等。
+
+3. 热敷：可以用温水袋敷在胃部，有助于缓解疼痛。
+
+4. 药物缓解：如果症状持续严重，可以咨询医生选择适当的药物缓解症状。
+
+如果胃痛严重，伴随呕吐、发热等症状，建议立即就医，以查明原因并接受治疗。
+2023-03-03 14:45:38.497 | INFO     | __main__:<module>:33 - answer: 如果您感到胃痛，可以尝试以下一些方法：
+
+1. 休息一下：平躺或坐下，放轻松，不要做剧烈运动。
+
+2. 饮食调节：少吃刺激性和油腻的食物，多喝水，可以吃些易消化的食物，如米粥、面条、馒头等。
+
+3. 热敷：可以用温水袋敷在胃部，有助于缓解疼痛。
+
+4. 药物缓解：如果症状持续严重，可以咨询医生选择适当的药物缓解症状。
+
+如果胃痛严重，伴随呕吐、发热等症状，建议立即就医，以查明原因并接受治疗。
+2023-03-03 14:45:38.497 | INFO     | __main__:<module>:33 - answer: 如果您感到胃痛，可以尝试以下一些方法：
+
+1. 休息一下：平躺或坐下，放轻松，不要做剧烈运动。
+
+2. 饮食调节：少吃刺激性和油腻的食物，多喝水，可以吃些易消化的食物，如米粥、面条、馒头等。
+
+3. 热敷：可以用温水袋敷在胃部，有助于缓解疼痛。
+
+4. 药物缓解：如果症状持续严重，可以咨询医生选择适当的药物缓解症状。
+
+如果胃痛严重，伴随呕吐、发热等症状，建议立即就医，以查明原因并接受治疗。
+2023-03-03 14:45:38.497 | INFO     | __main__:<module>:33 - answer: 如果您感到胃痛，可以尝试以下一些方法：
+
+1. 休息一下：平躺或坐下，放轻松，不要做剧烈运动。
+
+2. 饮食调节：少吃刺激性和油腻的食物，多喝水，可以吃些易消化的食物，如米粥、面条、馒头等。
+
+3. 热敷：可以用温水袋敷在胃部，有助于缓解疼痛。
+
+4. 药物缓解：如果症状持续严重，可以咨询医生选择适当的药物缓解症状。
+
+如果胃痛严重，伴随呕吐、发热等症状，建议立即就医，以查明原因并接受治疗。
+2023-03-03 14:45:38.497 | INFO     | __main__:<module>:33 - answer: 如果您感到胃痛，可以尝试以下一些方法：
+
+1. 休息一下：平躺或坐下，放轻松，不要做剧烈运动。
+
+2. 饮食调节：少吃刺激性和油腻的食物，多喝水，可以吃些易消化的食物，如米粥、面条、馒头等。
+
+3. 热敷：可以用温水袋敷在胃部，有助于缓解疼痛。
+
+4. 药物缓解：如果症状持续严重，可以咨询医生选择适当的药物缓解症状。
+
+如果胃痛严重，伴随呕吐、发热等症状，建议立即就医，以查明原因并接受治疗。
+2023-03-03 14:45:38.497 | INFO     | __main__:<module>:33 - answer: 如果您感到胃痛，可以尝试以下一些方法：
+
+1. 休息一下：平躺或坐下，放轻松，不要做剧烈运动。
+
+2. 饮食调节：少吃刺激性和油腻的食物，多喝水，可以吃些易消化的食物，如米粥、面条、馒头等。
+
+3. 热敷：可以用温水袋敷在胃部，有助于缓解疼痛。
+
+4. 药物缓解：如果症状持续严重，可以咨询医生选择适当的药物缓解症状。
+
+如果胃痛严重，伴随呕吐、发热等症状，建议立即就医，以查明原因并接受治疗。
+2023-03-03 14:45:38.497 | INFO     | __main__:<module>:33 - answer: 如果您感到胃痛，可以尝试以下一些方法：
+
+1. 休息一下：平躺或坐下，放轻松，不要做剧烈运动。
+
+2. 饮食调节：少吃刺激性和油腻的食物，多喝水，可以吃些易消化的食物，如米粥、面条、馒头等。
+
+3. 热敷：可以用温水袋敷在胃部，有助于缓解疼痛。
+
+4. 药物缓解：如果症状持续严重，可以咨询医生选择适当的药物缓解症状。
+
+如果胃痛严重，伴随呕吐、发热等症状，建议立即就医，以查明原因并接受治疗。
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.653 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:22.657 | INFO     | __main__:<module>:21 - user_question: 胃痛怎么办
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:30.330 | INFO     | __main__:<module>:33 - answer: 如果您有胃痛，建议您采取以下措施：
+
+1. 休息：尽可能静养，避免剧烈活动。
+
+2. 饮食：遵循低脂肪、低刺激性、容易消化的饮食，避免食用辛辣、油腻、烟熏、热烫及含酒精和咖啡因饮料等刺激性食物。
+
+3. 清淡饮食：可选择稀饭、粥、汤等清淡饮食，适量吃些高纤维食物如蔬菜水果等。
+
+4. 热敷：胃痛时可在肚子上敷热水袋或用毛巾蘸温水热敷。
+
+5. 喝水：喝些温水、淡盐水或蜂蜜水等能缓解胃部疼痛。
+
+如果胃痛症状持续且严重，建议及时就医，由医生给予进一步的治疗。
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.111 | INFO     | __main__:<module>:14 - system_role: 游戏爱好者
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:44.113 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:46:50.766 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在塞尔达旷野之息遇到了难关，可以尝试以下方法：
+
+1. 提升自己的能力：通过打造更好的装备，提升角色属性和技能等，可以让自己更加强大，轻松应对难关。
+
+2. 探索更多地区：在游戏中，有很多隐藏的地区和任务，你可以尝试去探索它们，往往会获得很多有用的道具和技能。
+
+3. 学会运用道具：塞尔达旷野之息中有很多不同的道具，如远程武器、魔法道具等，学会合理运用它们可以帮助你轻松应对难关。
+
+4. 观察敌人的行动：在战斗中，观察敌人的行动，找出它们的弱点和攻击方式，针对性的作战可以事半功倍。
+
+最后，使用攻略网站或参考其他玩家的游戏经验也是不错的选择。
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.400 | INFO     | __main__:<module>:14 - system_role: 程序员
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:08.402 | INFO     | __main__:<module>:21 - user_question: 塞尔达旷野之息通不了关怎么办
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:47:19.247 | INFO     | __main__:<module>:33 - answer: 
+
+如果您在《塞尔达传说：荒野之息》中遇到了过不了的关卡，请先仔细观察游戏中的提示和任务目标，确保自己已经完成了所有必要的步骤。如果您仍然无法通过关卡，请尝试以下方法：
+
+1. 学会利用道具和技能：游戏中有许多有用的道具和技能，包括远攻武器、炸弹、飞行板等等，尝试利用它们来攻击敌人或者解决难题。
+
+2. 提升自身技能：在游戏中，您需要打败各种怪物、完成各种任务来不断提升自己的技能。尝试在前往新关卡之前提升自己的技能和装备。
+
+3. 找到隐藏房间和道路：游戏中有很多隐藏的房间和道路，里面可能有秘密宝藏或者帮助您通过关卡的道具。尝试找到这些隐藏的地方。
+
+4. 削弱敌人：如果您遇到的敌人十分强大，您可以尝试先削弱他们。可以使用远攻武器来攻击他们，或者使用环境物品来制造陷阱。
+
+5. 参考攻略：如果您尝试了以上方法仍然无法通过关卡，可以参考一些游戏攻略。有些攻略可能会提供一些您之前没有想到过的解决方案。
+
+希望以上方法可以帮助您通过《塞尔达传说：荒野之息》的关卡。
+2023-03-03 14:55:51.954 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:55:58.125 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:55:58.125 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:55:58.125 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:55:58.126 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:55:58.126 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:55:58.126 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:56:13.247 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:56:13.247 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:56:13.247 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:56:13.247 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:56:25.088 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:56:25.088 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:56:25.088 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:56:25.088 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:56:25.088 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:56:25.090 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:56:25.090 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:56:25.090 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:56:25.090 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:56:25.090 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:56:40.175 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:56:40.175 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:56:40.175 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:56:40.175 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:56:40.175 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:56:40.175 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:56:58.173 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:56:58.173 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:56:58.173 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:56:58.173 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:56:58.173 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:56:58.173 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:56:58.173 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 14:57:01.488 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:01.488 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:01.488 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:01.488 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:01.488 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:01.488 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:01.488 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:01.488 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:01.533 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:01.533 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:01.533 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:01.533 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:01.533 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:01.533 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:01.533 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:01.533 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:01.533 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:01.535 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:01.535 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:01.535 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:01.535 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:01.535 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:01.535 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:01.535 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:01.535 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:01.535 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:07.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:07.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:07.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:07.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:07.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:07.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:07.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:07.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:07.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:07.583 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:53.192 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:53.192 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:53.192 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:53.192 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:53.192 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:53.192 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:53.192 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:53.192 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:53.192 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:53.192 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:53.192 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:57:53.194 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:53.194 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:53.194 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:53.194 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:53.194 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:53.194 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:53.194 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:53.194 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:53.194 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:53.194 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:53.194 | INFO     | __main__:<module>:22 - user_question: 
+2023-03-03 14:57:57.656 | INFO     | __main__:<module>:34 - answer: 医生是指从事医学工作的专业人员，主要职责是通过诊断、治疗和预防疾病来保护和促进人类健康。医生需要接受相关的医学教育培训，获取相关的执业证书和资格认证，才能合法地从事医疗工作。医生的种类和职责有很多，例如家庭医生、内科医生、外科医生、儿科医生、眼科医生、心理医生等等。他们在医院、诊所、护理院等医疗机构工作，或者从事私人医疗服务。
+2023-03-03 14:57:57.656 | INFO     | __main__:<module>:34 - answer: 医生是指从事医学工作的专业人员，主要职责是通过诊断、治疗和预防疾病来保护和促进人类健康。医生需要接受相关的医学教育培训，获取相关的执业证书和资格认证，才能合法地从事医疗工作。医生的种类和职责有很多，例如家庭医生、内科医生、外科医生、儿科医生、眼科医生、心理医生等等。他们在医院、诊所、护理院等医疗机构工作，或者从事私人医疗服务。
+2023-03-03 14:57:57.656 | INFO     | __main__:<module>:34 - answer: 医生是指从事医学工作的专业人员，主要职责是通过诊断、治疗和预防疾病来保护和促进人类健康。医生需要接受相关的医学教育培训，获取相关的执业证书和资格认证，才能合法地从事医疗工作。医生的种类和职责有很多，例如家庭医生、内科医生、外科医生、儿科医生、眼科医生、心理医生等等。他们在医院、诊所、护理院等医疗机构工作，或者从事私人医疗服务。
+2023-03-03 14:57:57.656 | INFO     | __main__:<module>:34 - answer: 医生是指从事医学工作的专业人员，主要职责是通过诊断、治疗和预防疾病来保护和促进人类健康。医生需要接受相关的医学教育培训，获取相关的执业证书和资格认证，才能合法地从事医疗工作。医生的种类和职责有很多，例如家庭医生、内科医生、外科医生、儿科医生、眼科医生、心理医生等等。他们在医院、诊所、护理院等医疗机构工作，或者从事私人医疗服务。
+2023-03-03 14:57:57.656 | INFO     | __main__:<module>:34 - answer: 医生是指从事医学工作的专业人员，主要职责是通过诊断、治疗和预防疾病来保护和促进人类健康。医生需要接受相关的医学教育培训，获取相关的执业证书和资格认证，才能合法地从事医疗工作。医生的种类和职责有很多，例如家庭医生、内科医生、外科医生、儿科医生、眼科医生、心理医生等等。他们在医院、诊所、护理院等医疗机构工作，或者从事私人医疗服务。
+2023-03-03 14:57:57.656 | INFO     | __main__:<module>:34 - answer: 医生是指从事医学工作的专业人员，主要职责是通过诊断、治疗和预防疾病来保护和促进人类健康。医生需要接受相关的医学教育培训，获取相关的执业证书和资格认证，才能合法地从事医疗工作。医生的种类和职责有很多，例如家庭医生、内科医生、外科医生、儿科医生、眼科医生、心理医生等等。他们在医院、诊所、护理院等医疗机构工作，或者从事私人医疗服务。
+2023-03-03 14:57:57.656 | INFO     | __main__:<module>:34 - answer: 医生是指从事医学工作的专业人员，主要职责是通过诊断、治疗和预防疾病来保护和促进人类健康。医生需要接受相关的医学教育培训，获取相关的执业证书和资格认证，才能合法地从事医疗工作。医生的种类和职责有很多，例如家庭医生、内科医生、外科医生、儿科医生、眼科医生、心理医生等等。他们在医院、诊所、护理院等医疗机构工作，或者从事私人医疗服务。
+2023-03-03 14:57:57.656 | INFO     | __main__:<module>:34 - answer: 医生是指从事医学工作的专业人员，主要职责是通过诊断、治疗和预防疾病来保护和促进人类健康。医生需要接受相关的医学教育培训，获取相关的执业证书和资格认证，才能合法地从事医疗工作。医生的种类和职责有很多，例如家庭医生、内科医生、外科医生、儿科医生、眼科医生、心理医生等等。他们在医院、诊所、护理院等医疗机构工作，或者从事私人医疗服务。
+2023-03-03 14:57:57.656 | INFO     | __main__:<module>:34 - answer: 医生是指从事医学工作的专业人员，主要职责是通过诊断、治疗和预防疾病来保护和促进人类健康。医生需要接受相关的医学教育培训，获取相关的执业证书和资格认证，才能合法地从事医疗工作。医生的种类和职责有很多，例如家庭医生、内科医生、外科医生、儿科医生、眼科医生、心理医生等等。他们在医院、诊所、护理院等医疗机构工作，或者从事私人医疗服务。
+2023-03-03 14:57:57.656 | INFO     | __main__:<module>:34 - answer: 医生是指从事医学工作的专业人员，主要职责是通过诊断、治疗和预防疾病来保护和促进人类健康。医生需要接受相关的医学教育培训，获取相关的执业证书和资格认证，才能合法地从事医疗工作。医生的种类和职责有很多，例如家庭医生、内科医生、外科医生、儿科医生、眼科医生、心理医生等等。他们在医院、诊所、护理院等医疗机构工作，或者从事私人医疗服务。
+2023-03-03 14:57:57.656 | INFO     | __main__:<module>:34 - answer: 医生是指从事医学工作的专业人员，主要职责是通过诊断、治疗和预防疾病来保护和促进人类健康。医生需要接受相关的医学教育培训，获取相关的执业证书和资格认证，才能合法地从事医疗工作。医生的种类和职责有很多，例如家庭医生、内科医生、外科医生、儿科医生、眼科医生、心理医生等等。他们在医院、诊所、护理院等医疗机构工作，或者从事私人医疗服务。
+2023-03-03 14:58:01.089 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:58:01.089 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:58:01.089 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:58:01.089 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:58:01.089 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:58:01.089 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:58:01.089 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:58:01.089 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:58:01.089 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:58:01.089 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:58:01.089 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:58:01.089 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 14:58:01.091 | INFO     | __main__:<module>:22 - user_question: 我肚子疼
+2023-03-03 14:58:01.091 | INFO     | __main__:<module>:22 - user_question: 我肚子疼
+2023-03-03 14:58:01.091 | INFO     | __main__:<module>:22 - user_question: 我肚子疼
+2023-03-03 14:58:01.091 | INFO     | __main__:<module>:22 - user_question: 我肚子疼
+2023-03-03 14:58:01.091 | INFO     | __main__:<module>:22 - user_question: 我肚子疼
+2023-03-03 14:58:01.091 | INFO     | __main__:<module>:22 - user_question: 我肚子疼
+2023-03-03 14:58:01.091 | INFO     | __main__:<module>:22 - user_question: 我肚子疼
+2023-03-03 14:58:01.091 | INFO     | __main__:<module>:22 - user_question: 我肚子疼
+2023-03-03 14:58:01.091 | INFO     | __main__:<module>:22 - user_question: 我肚子疼
+2023-03-03 14:58:01.091 | INFO     | __main__:<module>:22 - user_question: 我肚子疼
+2023-03-03 14:58:01.091 | INFO     | __main__:<module>:22 - user_question: 我肚子疼
+2023-03-03 14:58:01.091 | INFO     | __main__:<module>:22 - user_question: 我肚子疼
+2023-03-03 14:58:05.467 | INFO     | __main__:<module>:34 - answer: 您好，肚子疼有很多可能的原因，可以是消化系统、泌尿系统、生殖系统等多个方面引起的。如果疼痛严重或持续时间较长，建议您咨询医生，进行详细的检查和诊断。如果疼痛不是很严重，可以暂时采取一些措施缓解，比如休息、饮食上调整等。但请勿自行使用药物或中药治疗，因为这可能会导致更严重的症状并对身体造成损害。
+2023-03-03 14:58:05.467 | INFO     | __main__:<module>:34 - answer: 您好，肚子疼有很多可能的原因，可以是消化系统、泌尿系统、生殖系统等多个方面引起的。如果疼痛严重或持续时间较长，建议您咨询医生，进行详细的检查和诊断。如果疼痛不是很严重，可以暂时采取一些措施缓解，比如休息、饮食上调整等。但请勿自行使用药物或中药治疗，因为这可能会导致更严重的症状并对身体造成损害。
+2023-03-03 14:58:05.467 | INFO     | __main__:<module>:34 - answer: 您好，肚子疼有很多可能的原因，可以是消化系统、泌尿系统、生殖系统等多个方面引起的。如果疼痛严重或持续时间较长，建议您咨询医生，进行详细的检查和诊断。如果疼痛不是很严重，可以暂时采取一些措施缓解，比如休息、饮食上调整等。但请勿自行使用药物或中药治疗，因为这可能会导致更严重的症状并对身体造成损害。
+2023-03-03 14:58:05.467 | INFO     | __main__:<module>:34 - answer: 您好，肚子疼有很多可能的原因，可以是消化系统、泌尿系统、生殖系统等多个方面引起的。如果疼痛严重或持续时间较长，建议您咨询医生，进行详细的检查和诊断。如果疼痛不是很严重，可以暂时采取一些措施缓解，比如休息、饮食上调整等。但请勿自行使用药物或中药治疗，因为这可能会导致更严重的症状并对身体造成损害。
+2023-03-03 14:58:05.467 | INFO     | __main__:<module>:34 - answer: 您好，肚子疼有很多可能的原因，可以是消化系统、泌尿系统、生殖系统等多个方面引起的。如果疼痛严重或持续时间较长，建议您咨询医生，进行详细的检查和诊断。如果疼痛不是很严重，可以暂时采取一些措施缓解，比如休息、饮食上调整等。但请勿自行使用药物或中药治疗，因为这可能会导致更严重的症状并对身体造成损害。
+2023-03-03 14:58:05.467 | INFO     | __main__:<module>:34 - answer: 您好，肚子疼有很多可能的原因，可以是消化系统、泌尿系统、生殖系统等多个方面引起的。如果疼痛严重或持续时间较长，建议您咨询医生，进行详细的检查和诊断。如果疼痛不是很严重，可以暂时采取一些措施缓解，比如休息、饮食上调整等。但请勿自行使用药物或中药治疗，因为这可能会导致更严重的症状并对身体造成损害。
+2023-03-03 14:58:05.467 | INFO     | __main__:<module>:34 - answer: 您好，肚子疼有很多可能的原因，可以是消化系统、泌尿系统、生殖系统等多个方面引起的。如果疼痛严重或持续时间较长，建议您咨询医生，进行详细的检查和诊断。如果疼痛不是很严重，可以暂时采取一些措施缓解，比如休息、饮食上调整等。但请勿自行使用药物或中药治疗，因为这可能会导致更严重的症状并对身体造成损害。
+2023-03-03 14:58:05.467 | INFO     | __main__:<module>:34 - answer: 您好，肚子疼有很多可能的原因，可以是消化系统、泌尿系统、生殖系统等多个方面引起的。如果疼痛严重或持续时间较长，建议您咨询医生，进行详细的检查和诊断。如果疼痛不是很严重，可以暂时采取一些措施缓解，比如休息、饮食上调整等。但请勿自行使用药物或中药治疗，因为这可能会导致更严重的症状并对身体造成损害。
+2023-03-03 14:58:05.467 | INFO     | __main__:<module>:34 - answer: 您好，肚子疼有很多可能的原因，可以是消化系统、泌尿系统、生殖系统等多个方面引起的。如果疼痛严重或持续时间较长，建议您咨询医生，进行详细的检查和诊断。如果疼痛不是很严重，可以暂时采取一些措施缓解，比如休息、饮食上调整等。但请勿自行使用药物或中药治疗，因为这可能会导致更严重的症状并对身体造成损害。
+2023-03-03 14:58:05.467 | INFO     | __main__:<module>:34 - answer: 您好，肚子疼有很多可能的原因，可以是消化系统、泌尿系统、生殖系统等多个方面引起的。如果疼痛严重或持续时间较长，建议您咨询医生，进行详细的检查和诊断。如果疼痛不是很严重，可以暂时采取一些措施缓解，比如休息、饮食上调整等。但请勿自行使用药物或中药治疗，因为这可能会导致更严重的症状并对身体造成损害。
+2023-03-03 14:58:05.467 | INFO     | __main__:<module>:34 - answer: 您好，肚子疼有很多可能的原因，可以是消化系统、泌尿系统、生殖系统等多个方面引起的。如果疼痛严重或持续时间较长，建议您咨询医生，进行详细的检查和诊断。如果疼痛不是很严重，可以暂时采取一些措施缓解，比如休息、饮食上调整等。但请勿自行使用药物或中药治疗，因为这可能会导致更严重的症状并对身体造成损害。
+2023-03-03 14:58:05.467 | INFO     | __main__:<module>:34 - answer: 您好，肚子疼有很多可能的原因，可以是消化系统、泌尿系统、生殖系统等多个方面引起的。如果疼痛严重或持续时间较长，建议您咨询医生，进行详细的检查和诊断。如果疼痛不是很严重，可以暂时采取一些措施缓解，比如休息、饮食上调整等。但请勿自行使用药物或中药治疗，因为这可能会导致更严重的症状并对身体造成损害。
+2023-03-03 15:00:07.552 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:00:07.552 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:00:07.552 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:00:07.552 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:00:07.552 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:00:07.552 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:00:07.552 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:00:07.552 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:00:07.552 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:00:07.552 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:00:07.552 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:00:07.552 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:00:07.552 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:01:22.614 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:01:22.614 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:01:22.614 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:01:22.614 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:01:22.614 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:01:22.614 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:01:22.614 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:01:22.614 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:01:22.614 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:01:22.614 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:01:22.614 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:01:22.614 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:01:22.614 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:01:22.614 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:03:59.269 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:03:59.269 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:03:59.269 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:03:59.269 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:03:59.269 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:03:59.269 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:03:59.269 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:03:59.269 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:03:59.269 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:03:59.269 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:03:59.269 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:03:59.269 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:03:59.269 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:03:59.269 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:03:59.269 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:02.708 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:02.708 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:02.708 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:02.708 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:02.708 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:02.708 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:02.708 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:02.708 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:02.708 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:02.708 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:02.708 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:02.708 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:02.708 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:02.708 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:02.708 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:02.708 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:02.708 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:02.710 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:04:02.710 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:04:02.710 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:04:02.710 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:04:02.710 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:04:02.710 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:04:02.710 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:04:02.710 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:04:02.710 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:04:02.710 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:04:02.710 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:04:02.710 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:04:02.710 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:04:02.710 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:04:02.710 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:04:02.710 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:04:02.710 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:04:09.271 | INFO     | __main__:<module>:35 - answer: 如果您感到肚子疼，可以考虑以下几种可能的原因：
+
+1. 消化不良：消化不良是最常见的导致肚子疼的原因之一，当食物不能被消化 properly时，会导致疼痛。
+
+2. 食物中毒：如果您最近吃了变质的食物或者去了不洁净的餐馆，也可能导致食物中毒，出现肚子疼痛等症状。
+
+3. 肠道问题：肠道发炎、炎症性肠病等肠道问题也可能发生肚子疼。
+
+4. 经痛：对于女性，经期可能会出现肚子疼等症状。
+
+5. 身体免疫力下降或缺乏某些维生素和矿物质也可能导致肚子疼。
+
+建议您去医院进行检查，以确定具体的病因并得到相应的治疗。
+2023-03-03 15:04:09.271 | INFO     | __main__:<module>:35 - answer: 如果您感到肚子疼，可以考虑以下几种可能的原因：
+
+1. 消化不良：消化不良是最常见的导致肚子疼的原因之一，当食物不能被消化 properly时，会导致疼痛。
+
+2. 食物中毒：如果您最近吃了变质的食物或者去了不洁净的餐馆，也可能导致食物中毒，出现肚子疼痛等症状。
+
+3. 肠道问题：肠道发炎、炎症性肠病等肠道问题也可能发生肚子疼。
+
+4. 经痛：对于女性，经期可能会出现肚子疼等症状。
+
+5. 身体免疫力下降或缺乏某些维生素和矿物质也可能导致肚子疼。
+
+建议您去医院进行检查，以确定具体的病因并得到相应的治疗。
+2023-03-03 15:04:09.271 | INFO     | __main__:<module>:35 - answer: 如果您感到肚子疼，可以考虑以下几种可能的原因：
+
+1. 消化不良：消化不良是最常见的导致肚子疼的原因之一，当食物不能被消化 properly时，会导致疼痛。
+
+2. 食物中毒：如果您最近吃了变质的食物或者去了不洁净的餐馆，也可能导致食物中毒，出现肚子疼痛等症状。
+
+3. 肠道问题：肠道发炎、炎症性肠病等肠道问题也可能发生肚子疼。
+
+4. 经痛：对于女性，经期可能会出现肚子疼等症状。
+
+5. 身体免疫力下降或缺乏某些维生素和矿物质也可能导致肚子疼。
+
+建议您去医院进行检查，以确定具体的病因并得到相应的治疗。
+2023-03-03 15:04:09.271 | INFO     | __main__:<module>:35 - answer: 如果您感到肚子疼，可以考虑以下几种可能的原因：
+
+1. 消化不良：消化不良是最常见的导致肚子疼的原因之一，当食物不能被消化 properly时，会导致疼痛。
+
+2. 食物中毒：如果您最近吃了变质的食物或者去了不洁净的餐馆，也可能导致食物中毒，出现肚子疼痛等症状。
+
+3. 肠道问题：肠道发炎、炎症性肠病等肠道问题也可能发生肚子疼。
+
+4. 经痛：对于女性，经期可能会出现肚子疼等症状。
+
+5. 身体免疫力下降或缺乏某些维生素和矿物质也可能导致肚子疼。
+
+建议您去医院进行检查，以确定具体的病因并得到相应的治疗。
+2023-03-03 15:04:09.271 | INFO     | __main__:<module>:35 - answer: 如果您感到肚子疼，可以考虑以下几种可能的原因：
+
+1. 消化不良：消化不良是最常见的导致肚子疼的原因之一，当食物不能被消化 properly时，会导致疼痛。
+
+2. 食物中毒：如果您最近吃了变质的食物或者去了不洁净的餐馆，也可能导致食物中毒，出现肚子疼痛等症状。
+
+3. 肠道问题：肠道发炎、炎症性肠病等肠道问题也可能发生肚子疼。
+
+4. 经痛：对于女性，经期可能会出现肚子疼等症状。
+
+5. 身体免疫力下降或缺乏某些维生素和矿物质也可能导致肚子疼。
+
+建议您去医院进行检查，以确定具体的病因并得到相应的治疗。
+2023-03-03 15:04:09.271 | INFO     | __main__:<module>:35 - answer: 如果您感到肚子疼，可以考虑以下几种可能的原因：
+
+1. 消化不良：消化不良是最常见的导致肚子疼的原因之一，当食物不能被消化 properly时，会导致疼痛。
+
+2. 食物中毒：如果您最近吃了变质的食物或者去了不洁净的餐馆，也可能导致食物中毒，出现肚子疼痛等症状。
+
+3. 肠道问题：肠道发炎、炎症性肠病等肠道问题也可能发生肚子疼。
+
+4. 经痛：对于女性，经期可能会出现肚子疼等症状。
+
+5. 身体免疫力下降或缺乏某些维生素和矿物质也可能导致肚子疼。
+
+建议您去医院进行检查，以确定具体的病因并得到相应的治疗。
+2023-03-03 15:04:09.271 | INFO     | __main__:<module>:35 - answer: 如果您感到肚子疼，可以考虑以下几种可能的原因：
+
+1. 消化不良：消化不良是最常见的导致肚子疼的原因之一，当食物不能被消化 properly时，会导致疼痛。
+
+2. 食物中毒：如果您最近吃了变质的食物或者去了不洁净的餐馆，也可能导致食物中毒，出现肚子疼痛等症状。
+
+3. 肠道问题：肠道发炎、炎症性肠病等肠道问题也可能发生肚子疼。
+
+4. 经痛：对于女性，经期可能会出现肚子疼等症状。
+
+5. 身体免疫力下降或缺乏某些维生素和矿物质也可能导致肚子疼。
+
+建议您去医院进行检查，以确定具体的病因并得到相应的治疗。
+2023-03-03 15:04:09.271 | INFO     | __main__:<module>:35 - answer: 如果您感到肚子疼，可以考虑以下几种可能的原因：
+
+1. 消化不良：消化不良是最常见的导致肚子疼的原因之一，当食物不能被消化 properly时，会导致疼痛。
+
+2. 食物中毒：如果您最近吃了变质的食物或者去了不洁净的餐馆，也可能导致食物中毒，出现肚子疼痛等症状。
+
+3. 肠道问题：肠道发炎、炎症性肠病等肠道问题也可能发生肚子疼。
+
+4. 经痛：对于女性，经期可能会出现肚子疼等症状。
+
+5. 身体免疫力下降或缺乏某些维生素和矿物质也可能导致肚子疼。
+
+建议您去医院进行检查，以确定具体的病因并得到相应的治疗。
+2023-03-03 15:04:09.271 | INFO     | __main__:<module>:35 - answer: 如果您感到肚子疼，可以考虑以下几种可能的原因：
+
+1. 消化不良：消化不良是最常见的导致肚子疼的原因之一，当食物不能被消化 properly时，会导致疼痛。
+
+2. 食物中毒：如果您最近吃了变质的食物或者去了不洁净的餐馆，也可能导致食物中毒，出现肚子疼痛等症状。
+
+3. 肠道问题：肠道发炎、炎症性肠病等肠道问题也可能发生肚子疼。
+
+4. 经痛：对于女性，经期可能会出现肚子疼等症状。
+
+5. 身体免疫力下降或缺乏某些维生素和矿物质也可能导致肚子疼。
+
+建议您去医院进行检查，以确定具体的病因并得到相应的治疗。
+2023-03-03 15:04:09.271 | INFO     | __main__:<module>:35 - answer: 如果您感到肚子疼，可以考虑以下几种可能的原因：
+
+1. 消化不良：消化不良是最常见的导致肚子疼的原因之一，当食物不能被消化 properly时，会导致疼痛。
+
+2. 食物中毒：如果您最近吃了变质的食物或者去了不洁净的餐馆，也可能导致食物中毒，出现肚子疼痛等症状。
+
+3. 肠道问题：肠道发炎、炎症性肠病等肠道问题也可能发生肚子疼。
+
+4. 经痛：对于女性，经期可能会出现肚子疼等症状。
+
+5. 身体免疫力下降或缺乏某些维生素和矿物质也可能导致肚子疼。
+
+建议您去医院进行检查，以确定具体的病因并得到相应的治疗。
+2023-03-03 15:04:09.271 | INFO     | __main__:<module>:35 - answer: 如果您感到肚子疼，可以考虑以下几种可能的原因：
+
+1. 消化不良：消化不良是最常见的导致肚子疼的原因之一，当食物不能被消化 properly时，会导致疼痛。
+
+2. 食物中毒：如果您最近吃了变质的食物或者去了不洁净的餐馆，也可能导致食物中毒，出现肚子疼痛等症状。
+
+3. 肠道问题：肠道发炎、炎症性肠病等肠道问题也可能发生肚子疼。
+
+4. 经痛：对于女性，经期可能会出现肚子疼等症状。
+
+5. 身体免疫力下降或缺乏某些维生素和矿物质也可能导致肚子疼。
+
+建议您去医院进行检查，以确定具体的病因并得到相应的治疗。
+2023-03-03 15:04:09.271 | INFO     | __main__:<module>:35 - answer: 如果您感到肚子疼，可以考虑以下几种可能的原因：
+
+1. 消化不良：消化不良是最常见的导致肚子疼的原因之一，当食物不能被消化 properly时，会导致疼痛。
+
+2. 食物中毒：如果您最近吃了变质的食物或者去了不洁净的餐馆，也可能导致食物中毒，出现肚子疼痛等症状。
+
+3. 肠道问题：肠道发炎、炎症性肠病等肠道问题也可能发生肚子疼。
+
+4. 经痛：对于女性，经期可能会出现肚子疼等症状。
+
+5. 身体免疫力下降或缺乏某些维生素和矿物质也可能导致肚子疼。
+
+建议您去医院进行检查，以确定具体的病因并得到相应的治疗。
+2023-03-03 15:04:09.271 | INFO     | __main__:<module>:35 - answer: 如果您感到肚子疼，可以考虑以下几种可能的原因：
+
+1. 消化不良：消化不良是最常见的导致肚子疼的原因之一，当食物不能被消化 properly时，会导致疼痛。
+
+2. 食物中毒：如果您最近吃了变质的食物或者去了不洁净的餐馆，也可能导致食物中毒，出现肚子疼痛等症状。
+
+3. 肠道问题：肠道发炎、炎症性肠病等肠道问题也可能发生肚子疼。
+
+4. 经痛：对于女性，经期可能会出现肚子疼等症状。
+
+5. 身体免疫力下降或缺乏某些维生素和矿物质也可能导致肚子疼。
+
+建议您去医院进行检查，以确定具体的病因并得到相应的治疗。
+2023-03-03 15:04:09.271 | INFO     | __main__:<module>:35 - answer: 如果您感到肚子疼，可以考虑以下几种可能的原因：
+
+1. 消化不良：消化不良是最常见的导致肚子疼的原因之一，当食物不能被消化 properly时，会导致疼痛。
+
+2. 食物中毒：如果您最近吃了变质的食物或者去了不洁净的餐馆，也可能导致食物中毒，出现肚子疼痛等症状。
+
+3. 肠道问题：肠道发炎、炎症性肠病等肠道问题也可能发生肚子疼。
+
+4. 经痛：对于女性，经期可能会出现肚子疼等症状。
+
+5. 身体免疫力下降或缺乏某些维生素和矿物质也可能导致肚子疼。
+
+建议您去医院进行检查，以确定具体的病因并得到相应的治疗。
+2023-03-03 15:04:09.271 | INFO     | __main__:<module>:35 - answer: 如果您感到肚子疼，可以考虑以下几种可能的原因：
+
+1. 消化不良：消化不良是最常见的导致肚子疼的原因之一，当食物不能被消化 properly时，会导致疼痛。
+
+2. 食物中毒：如果您最近吃了变质的食物或者去了不洁净的餐馆，也可能导致食物中毒，出现肚子疼痛等症状。
+
+3. 肠道问题：肠道发炎、炎症性肠病等肠道问题也可能发生肚子疼。
+
+4. 经痛：对于女性，经期可能会出现肚子疼等症状。
+
+5. 身体免疫力下降或缺乏某些维生素和矿物质也可能导致肚子疼。
+
+建议您去医院进行检查，以确定具体的病因并得到相应的治疗。
+2023-03-03 15:04:09.271 | INFO     | __main__:<module>:35 - answer: 如果您感到肚子疼，可以考虑以下几种可能的原因：
+
+1. 消化不良：消化不良是最常见的导致肚子疼的原因之一，当食物不能被消化 properly时，会导致疼痛。
+
+2. 食物中毒：如果您最近吃了变质的食物或者去了不洁净的餐馆，也可能导致食物中毒，出现肚子疼痛等症状。
+
+3. 肠道问题：肠道发炎、炎症性肠病等肠道问题也可能发生肚子疼。
+
+4. 经痛：对于女性，经期可能会出现肚子疼等症状。
+
+5. 身体免疫力下降或缺乏某些维生素和矿物质也可能导致肚子疼。
+
+建议您去医院进行检查，以确定具体的病因并得到相应的治疗。
+2023-03-03 15:04:09.271 | INFO     | __main__:<module>:35 - answer: 如果您感到肚子疼，可以考虑以下几种可能的原因：
+
+1. 消化不良：消化不良是最常见的导致肚子疼的原因之一，当食物不能被消化 properly时，会导致疼痛。
+
+2. 食物中毒：如果您最近吃了变质的食物或者去了不洁净的餐馆，也可能导致食物中毒，出现肚子疼痛等症状。
+
+3. 肠道问题：肠道发炎、炎症性肠病等肠道问题也可能发生肚子疼。
+
+4. 经痛：对于女性，经期可能会出现肚子疼等症状。
+
+5. 身体免疫力下降或缺乏某些维生素和矿物质也可能导致肚子疼。
+
+建议您去医院进行检查，以确定具体的病因并得到相应的治疗。
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.555 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:27.557 | INFO     | __main__:<module>:23 - user_question: 恶心
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:04:30.803 | INFO     | __main__:<module>:35 - answer: 恶心可能是身体不适的表现之一，也可能是因为食物过敏、消化不良等原因引起的。建议您休息充足，多喝水，避免食用过辛辣、过油腻的食物，如果恶心症状持续或伴有其他症状，建议您咨询医生。
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:05.746 | INFO     | __main__:<module>:14 - system_role: 
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:10.069 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.262 | INFO     | __main__:<module>:14 - system_role: 医生
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:15.263 | INFO     | __main__:<module>:23 - user_question: 肚子疼
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
+2023-03-03 15:05:18.215 | INFO     | __main__:<module>:35 - answer: 请您描述一下您的症状，疼痛的部位、程度、持续时间，是否伴随其他不适感觉，是否有不良饮食史或者疾病史等。这样我才能更好地了解您目前的情况，并为您提供更准确的建议。
