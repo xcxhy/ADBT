@@ -5,7 +5,7 @@ import streamlit as st
 from sacred import Experiment
 
 st.title("Hello")
-openai.api_key = "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"
+openai.api_key = ""
 
 logger.add('chat_log.log',retention="20 days")
 

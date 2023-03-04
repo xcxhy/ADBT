@@ -2,7 +2,7 @@
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = ""
 
 
 sys_content = input("您希望我扮演一个什么角色: ")
