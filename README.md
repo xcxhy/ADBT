@@ -16,4 +16,6 @@ Automation assists e-commerce sellers to launch new products
 
 It is still being updated, slowly updating functions. Finally, a conversational bot for merchandise might be added.
 
-The model is very important for us. We add the qa model.
+The model is very important for us. We add the vqa model.
+
+We use the ChatGPT to 
