@@ -18,4 +18,4 @@ It is still being updated, slowly updating functions. Finally, a conversational 
 
 The model is very important for us. We add the vqa model.
 
-We use the ChatGPT to 
+We use the ChatGPT to create our AI bot.
