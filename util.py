@@ -35,3 +35,15 @@ def write_list_txt(path, data):
             f.write(value + '\n')
     print("Write {} List End!".format(path))
     return 
+
+def read_dict_json(path):
+    with open(path, 'r+') as file:
+        content=file.read()
+    content=json.loads(content)
+    return content
+
+def write_dict_json(path, data):
+    dict_json = json.dumps(data, indent=4)
+    with open(path, 'w') as file:
+        file.write(dict_json)
+    return
