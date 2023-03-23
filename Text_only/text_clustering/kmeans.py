@@ -15,3 +15,17 @@ bow = count_vect.fit_transform(cates)
 
 terms = count_vect.get_feature_names_out()
 
+model = KMeans(n_clusters=10, init='k-means++', random_state=99)
+
+model.fit(bow)
+
+labels = model.labels_
+cluster_center = model.cluster_centers_
+order_centroids = model.cluster_centers_.argsort()[:, ::-1]
+
+for i in range(10):
+    print("cluter %d:" %i, end="")
+    for ind in order_centroids[i, :10]:
+        print("%s" % terms[ind], end="")
+        print()
+print("END!")
