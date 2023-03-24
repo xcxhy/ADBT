@@ -2,7 +2,7 @@ import os
 import sys
 from sacred import Experiment
 
-ex = Experiment("Blip2_Retrieval")
+ex = Experiment("Blip2")
 
 @ex.config
 def config():
