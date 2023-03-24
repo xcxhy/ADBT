@@ -15,7 +15,16 @@ class Image_chonsen_One(object):
         self.model, self.vis_processors, self.text_processors = \
             load_model_and_preprocess(self.model_name, self.model_mode, device=self.device, is_eval=True)
     
-    def choose_one_image(self, )
+    def choose_one_image(self, image_path, caption):
+        raw_image = Image.open(image_path).convert("RGB")
+        img = self.vis_processors["eval"](raw_image).unsqueeze(0).to(self.device)
+        txt = self.text_processors["eval"](caption)
+        itm_output = self.model({"image" : img, "text_input" : txt}, match_head="itm")
+        itm_scores = torch.nn.functional.softmax(itm_output, dim=1)
+        itc_socre = self.model({"image": img, "text_input": txt}, match_haed="itc")
+        return (image_path, itm_scores[:, 1].item(), itc_socre.item())
+
+    
 
 
 
