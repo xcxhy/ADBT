@@ -7,5 +7,5 @@ In fact, there are models of different sizes to choose from. Here we choose "fac
 cd ./Text_only/text_translation
 python translate_test.py
 ```
-you can change the mode to "EN", and change the model name.
+you can change the mode to "EN", and change the model name, like.
 
