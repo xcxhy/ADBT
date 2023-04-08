@@ -10,3 +10,5 @@ python translate_test.py
 you can change the mode to "EN", and change the model name, like'facebook/nllb-200-distilled-600M'.
 
 If the network is not good, you can go to the hugging face to download the corresponding model to the local.
+
+Please
