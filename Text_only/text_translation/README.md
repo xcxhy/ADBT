@@ -11,4 +11,4 @@ you can change the mode to "EN", and change the model name, like'facebook/nllb-2
 
 If the network is not good, you can go to the hugging face to download the corresponding model to the local.
 
-Please add
+
