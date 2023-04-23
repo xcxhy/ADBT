@@ -27,6 +27,6 @@ Automation assists e-commerce sellers to launch new products
 
 It is still being updated, slowly updating functions. Finally, a conversational bot for merchandise might be added.
 
-we will update soon.
+we will update soon!
 
 
